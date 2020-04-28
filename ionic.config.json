@@ -1,0 +1,7 @@
+{
+  "name": "ionicHideKeyboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
