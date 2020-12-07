@@ -41,7 +41,7 @@ export class HomePage {
     'item29',
     'item30',
   ];
-  isAvailable = Capacitor.isPluginAvailable('BackgroundTask');
+  isAvailable = Capacitor.isPluginAvailable('Keyboard');
 
   constructor() {
   }
